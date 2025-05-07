@@ -435,11 +435,12 @@ footer a:hover {
 }
 ```
 ## OUTPUT
-![Screenshot (37)](https://github.com/user-attachments/assets/2f7ea0c7-43de-4e92-82de-bdab1743d5a9)
-![Screenshot (38)](https://github.com/user-attachments/assets/ef09f969-73a3-4f63-baee-36144ac20f4c)
-![Screenshot (39)](https://github.com/user-attachments/assets/de246ab8-f83b-47e2-8a27-7c49a40e21d9)
-![Screenshot (40)](https://github.com/user-attachments/assets/4ad4298d-3568-49dc-a987-5e82fb3ae2af)
-![Screenshot (41)](https://github.com/user-attachments/assets/890a0b48-2726-49e7-8adb-6aa2345fce1f)
+![image](https://github.com/user-attachments/assets/5c9500d2-d397-4dfe-af14-422e04e5f5af)
+![image](https://github.com/user-attachments/assets/e404a80b-6115-456a-9459-bf85eae6e31e)
+![image](https://github.com/user-attachments/assets/db4d10d4-f4c6-4c8b-9616-6faec38a9022)
+![image](https://github.com/user-attachments/assets/3ca2b0a8-3fa3-4721-baa7-f50962cce59d)
+![image](https://github.com/user-attachments/assets/299a4e2f-28f5-4736-a0f3-f97093e1d373)
+
 
 
 ## RESULT
